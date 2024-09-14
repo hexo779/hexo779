@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm in GACHON UNIV SW major This is my profile in 2024 2 semester👋
 
 <!--
 **hexo779/hexo779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
